@@ -1,19 +1,10 @@
-# LeviLamina Mod Template
+# NoJoinText
 
-Mod Template for LeviLamina
+Mod for remove join and leave text
 
 ## Usage
 
-For detailed instructions, see the [LeviLamina Documentation](https://lamina.levimc.org/developer_guides/create_your_first_mod/)
-
-1. Generate a new repository from this template
-2. Clone the new repository
-3. Change the mod name and the expected LeviLamina version in `xmake.lua`
-4. Add your code.
-5. Run `xmake f -y -p windows -a x64 -m release` in the root of the repository
-6. Run `xmake` to build the mod.
-
-After a successful build, you will find mod in `bin/`
+install manually or via lip
 
 ## Contributing
 
