@@ -2,14 +2,14 @@
 
 #include "ll/api/mod/NativeMod.h"
 
-namespace my_mod {
+namespace NoJoinText {
 
-class MyMod {
+class NoText {
 
 public:
-    static MyMod& getInstance();
+    static NoText& getInstance();
 
-    MyMod() : mSelf(*ll::mod::NativeMod::current()) {}
+    NoText() : mSelf(*ll::mod::NativeMod::current()) {}
 
     [[nodiscard]] ll::mod::NativeMod& getSelf() const { return mSelf; }
 
