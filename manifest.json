@@ -1,6 +1,6 @@
 {
-    "name": "${modName}",
-    "entry": "${modFile}",
-    "version": "${modVersion}",
+    "name": "NoJoinText",
+    "entry": "NoJoinText.dll",
+    "version": "1.0.0",
     "type": "native"
 }
